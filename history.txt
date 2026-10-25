@@ -1,0 +1,291 @@
+    1  cd D:/Devops_Courses_EMC/local_git_repos/first_repo
+    2  clear
+    3  git status
+    4  git log
+    5  git log --oneline double_upndown_pyramid_code_fixed
+    6  git log --oneline double_upndown_pyramid_code_fixed.java
+    7  clear
+    8  git status
+    9  git branch
+   10  git checkout double_code_fixed
+   11  git branch
+   12  git log
+   13  clear
+   14  git log --oneline double_upndown_pyramid_code_fixed.java
+   15  cat double_upndown_pyramid_code_fixed.java
+   16  git log --oneline -- double_upndown_pyramid_code_fixed 
+   17  git log --oneline -- double_upndown_pyramid_code_fixed.java 
+   18  git status
+   19  git commit double_updown_pyramud_code_fixed.java
+   20  git commit -m "double_upndown_pyramid_code_fixed.java"
+   21  git log
+   22  clear
+   23  git status
+   24  clear
+   25  git log --oneline double_upndown_pyramid_code_fixed.java
+   26  git push origin main
+   27  git push -u karthick61201-patch-1_double_pyramid_og_version
+   28  git push -u main:karthick61201-patch-1_double_pyramid_og_version
+   29  git push origin main:karthick61201-patch-1_double_pyramid_og_version
+   30  git push origin main:karthick61201-patch-1_double_pyramid_og_version
+   31  git pull -u karthick61201-patch-1_double_pyramid_og_version
+   32  git fetch origin
+   33  git branch -r
+   34  git switch --track origin/karthick61201-patch-1_double_pyramid_og_version 
+   35  git branch
+   36  git branch -a
+   37  git push origin karthick61201-patch-1_double_pyramid_og_version 
+   38  git branch
+   39  git switch main
+   40  git push origin karthick61201-patch-1_double_pyramid_og_version 
+   41  git branch
+   42  git push -u origin karthick61201-patch-1_double_pyramid_og_version 
+   43  cat double_upndown_pyramid.java
+   44  git branch
+   45  git checkout double_pyramid_code_fixed 
+   46  cat double_upndown_pyramid.java
+   47  ls
+   48  cat double_upndown_pyramid_code_fixed.java 
+   49  git log --oneline double_pyramid_code_fixed.java
+   50  git log
+   51  git log --onefile double_upndown_pyramid_code_fixed.java
+   52  git log --onefile -- double_upndown_pyramid_code_fixed.java
+   53  git log --onefile -- double_upndown_pyramid_code_fixed.java
+   54  clear
+   55  ls
+   56  clear
+   57  pwd
+   58  ls
+   59  mv pyramid_nfix double_upndown_pyramid_code_fixed.java 
+   60  mv double_upndown_pyramid_code_fixed.java pyramid_nwfix.java 
+   61  ls
+   62  javac pyramid_nwfix.java 
+   63  java double_upndown_pyramid
+   64  clear
+   65  javac pyramid_nwfix.java 
+   66  java pyramid_nwfix
+   67  javac pyramid_nwfix.java 
+   68  java pyramid_nwfix
+   69  clear
+   70  clear
+   71  ls
+   72  javac pyramid_nwfix.java 
+   73  java pyramid_nwfix.java 
+   74  javac pyramid_nwfix.java 
+   75  java pyramid_nwfix 
+   76  java pyramid_nwfix.java 
+   77  clear
+   78  git status
+   79  git add pyramid_nwfix.java
+   80  git status
+   81  git restore --staged pyramid_nwfix.java
+   82  git status
+   83  git pyramid_nwfix.java
+   84  git add pyramid_nwfix.java
+   85  git status
+   86  git restore --staged pyramid_nwfix.java
+   87  git status
+   88  git add pyramid_nwfix.java
+   89  git status
+   90  git commit -m "pyramid_new_fix"
+   91  git branch
+   92  git pull origin main
+   93  git merge
+   94  git merge double_pyramid_code_fixed 
+   95  clear
+   96  ls
+   97  clear
+   98  git status
+   99  git branch
+  100  ls 
+  101  cat pyramid_nwfix.java
+  102  clear
+  103  git branch
+  104  git status
+  105  commit -m "double_pyramid"
+  106  git commit -m "double_pyramid"
+  107  git commit -m "firstfile"
+  108  clear
+  109  git switch main
+  110  git pull origin main
+  111  git status
+  112  clear
+  113  git status
+  114  git commit -m "code new fix"
+  115  git status
+  116  git push origin main
+  117  git branch
+  118  git add double_upndown_pyramid.class
+  119  git commit -m "code new fix1"
+  120  git status
+  121  git push origin main
+  122  git restore --staged double_upndown_pyramid.java
+  123  git restore --staged double_upndown_pyramid_code_fixed.java 
+  124  git status
+  125  git restore --staged double_upndown_pyramid_code_fixed.java 
+  126  git status
+  127  git status
+  128  git status
+  129  clear
+  130  cd demo_repo
+  131  cd /demo_repo
+  132  cd /demo-repo
+  133  cd demo-repo
+  134  clear
+  135  D:/Devops_Courses_EMC/local_git_repos/demo-repo
+  136  clear
+  137  ls
+  138  git status
+  139  clear
+  140  cd D:/Devops_Courses_EMC/local_git_repos/demo-repo
+  141  clear
+  142  ls
+  143  git status
+  144  git add program.java 
+  145  git status
+  146  git commit -m "pyramid.java"
+  147  git push origin main
+  148  git fetch
+  149  git branch
+  150  git pull origin main
+  151  git push origin main
+  152  git -c core.editor=true commit;
+  153  git status
+  154  git log --oneline --graph -5
+  155  git status
+  156  git push origin main
+  157  clear
+  158  git status
+  159  git add program.java 
+  160  git commit -m "update_program.java"
+  161  git branch
+  162  git push origin main
+  163  clear
+  164  cd D:/Devops_Courses_EMC/local_git_repos
+  165  mkdir devops_git_basics
+  166  cd D:/Devops_Courses_EMC/local_git_repos/devops_git_basics
+  167  git init -b main
+  168  ls
+  169  git init
+  170  rm -r .git
+  171  ls
+  172  git init -b main
+  173  touch README.md
+  174  touch version.txt
+  175  cat >> README.md << 'EOF'
+HI I am Karthick Raja from Bangalore.
+I have experienced in Softwae Testing for more tha 3 years
+I'm building my skills in Git, GitHub, Linux, and DevOps.
+EOF
+
+  176  cat README.md 
+  177  cat echo "V1.0.0" > version.txt 
+  178  ls
+  179  echo "V1.0.0" > version.txt 
+  180   cat version.txt 
+  181  git status
+  182  git add README.md version.txt 
+  183  git status
+  184  git commit -m "Initial commit with README and version"
+  185  git status
+  186  git push origin main
+  187  git remote add origin https://github.com/karthick61201/devops-git-basics.git
+  188  git push origin main
+  189  git log --oneline
+  190  clear
+  191  cd D:/Devops_Courses_EMC/devops_local_repo
+  192  mkdir devops-git-basics
+  193  cd devops-git-basics/
+  194  git init
+  195  cat >> README.md << "EOF"
+Hi, I'm learning DevOps and Git.
+I have experience in manual software testing.
+I'm building my skills in Git, GitHub, Linux, and DevOps.
+EOF
+
+  196  cat README.md 
+  197  echo "V1.0.0" > version.txt
+  198  cat version.txt 
+  199  git status
+  200  git add README.md version.txt 
+  201  git status
+  202  git commit -m "Edited README.md and version.txt"
+  203  git status
+  204  git remote add origin https://github.com/karthick61201/devops_git_basics_1.git
+  205  git push origin main
+  206  git push orgin main
+  207  git push -u origin main
+  208  git status
+  209  git remote add origin https://github.com/karthick61201/devops_git_basics_1.git
+  210  git push -u origin main
+  211  git log --oneline
+  212  git branch -M main
+  213  git push origin main
+  214  echo "v1.0.1" > version.txt 
+  215  cat version.txt 
+  216  git status
+  217  git add version.txt
+  218  git restore --staged version.txt 
+  219  git status
+  220  git add version.txt 
+  221  git status
+  222  git commit -m "Updated versio.txt"
+  223  git log --oneline
+  224  git remote add https://github.com/karthick61201/devops_git_basics_1.git
+  225  git remote add origin https://github.com/karthick61201/devops_git_basics_1.git
+  226  git push origin main
+  227  clear
+  228  cd D:/Devops_Courses_EMC/local_git_repos/devops_git_basics
+  229  pwd
+  230  git status
+  231  git add program.java 
+  232  git status
+  233  git commit "added program.java"
+  234  git commit -m "added program.java"
+  235  git status
+  236  git push origin main
+  237  git remote add origin https://github.com/karthick61201/devops-git-basics.git
+  238  git remote add origin https://github.com/karthick61201/devops-git-basics.git
+  239  clear
+  240  mkdir IBM_repo
+  241  rm -r IBM_repo/
+  242  cd ..
+  243  ls
+  244  mkdir IBM-repo
+  245  cd IBM-repo/
+  246  git init
+  247  git branch -M main
+  248  touch program.java
+  249  git status
+  250  git add program.java 
+  251  git status
+  252  git restore --staged program.java 
+  253  git rm --cached program.java 
+  254  git status
+  255  git add program.java 
+  256  git status
+  257  git rm --cached program.java 
+  258  git status
+  259  git add program.java 
+  260  git status
+  261  git commit -m "Added program.java"
+  262  git log --oneline
+  263  git log
+  264  git show 91a3323:program.java
+  265  git status
+  266  git remote -v
+  267  git remote get-url origin
+  268  git remote add origin https://github.com/karthick61201/IBM-Project-47582-1660800287.git
+  269  git remote -v
+  270  git remote get-url origin
+  271  git status
+  272  git log
+  273  git push origin main
+  274  git pull origin main
+  275  git push origin main
+  276  git pull origin main --allow-unrelated-histories
+  277  git status
+  278  git commit -m "ibm"
+  279  git push origin main
+  280  git pull origin main
+  281  history >> history.txt
